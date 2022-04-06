@@ -1,0 +1,24 @@
+body {
+  background-color: lightpink;
+  font-size: 30px;
+  line-height: 2;
+}
+
+button, input {
+  font-size: 20px;
+}
+
+.lay {
+  display: flex;
+  text-align: justify;
+  flex-direction: column;
+  align-items: center;
+}
+
+lable{
+  display: block;
+  align-content: center;
+  padding: inherit;
+  padding-left: 10px;
+  padding-top: 20px;
+}
